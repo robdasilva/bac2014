@@ -6,11 +6,11 @@ layout: page
 
 ## Angaben gemäß § 5 TMG:
 
-Robert Schweizer  
-Gottschalkstr. 15  
-81825 München
+Robert Da Silva  
+Maximilianstr. 15  
+86150 Augsburg
 
-mail@robertschweizer.me
+webmaster@robdasilva.com
 
 ## Haftungsausschluss
 
